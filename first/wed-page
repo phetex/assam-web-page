@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <tittle>my first web page</tittle>
+    <style>
+        img{
+            width: 100px;
+            border-radius: 10px;
+            float: left;
+            margin-left: 10px;
+        }
+
+        p {
+            font-weight: bold;
+        }
+    </style>
+  </head>
+  <body>
+    <img src="images/assam2.jpg">
+    <p>@emphileelect</p>
+    <p>i love to teach you HTML!</p>
+<h1>live server preview</h1>
+  </body>
+</html>
